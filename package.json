@@ -1,0 +1,36 @@
+{
+  "name": "eslint-config-classcraft",
+  "version": "1.0.0",
+  "description": "Classcraft's JavaScript style guide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/classcraft/eslint-config-classcraft.git"
+  },
+  "keywords": [
+    "classcraft",
+    "eslint",
+    "eslintconfig",
+    "lint",
+    "style"
+  ],
+  "author": "Alex Nault",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/classcraft/eslint-config-classcraft/issues"
+  },
+  "homepage": "https://github.com/classcraft/eslint-config-classcraft#readme",
+  "dependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^15.0.1",
+    "eslint-plugin-import": "^2.6.1",
+    "eslint-plugin-jsx-a11y": "^5.1.0",
+    "eslint-plugin-react": "^7.1.0"
+  }
+}
