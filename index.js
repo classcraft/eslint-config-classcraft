@@ -9,6 +9,7 @@ module.exports = {
             "error",
             "unix"
         ],
+        "no-tabs": 0,
         quotes: [
             "error",
             "double"
