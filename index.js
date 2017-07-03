@@ -1,6 +1,7 @@
 module.exports = {
     extends: "eslint-config-airbnb",
     rules: {
+        "import/no-absolute-path": 0,
         indent: [
             "error",
             "tab"
