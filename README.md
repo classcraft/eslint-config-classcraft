@@ -1,4 +1,4 @@
-# eslint-config-classcraft
+# eslint-config-classcraft [![npm version](https://badge.fury.io/js/eslint-config-classcraft.svg)](https://badge.fury.io/js/eslint-config-classcraft)
 
 A Classcraft flavored eslint config extending [airbnb](https://www.npmjs.com/package/eslint-config-airbnb).
 
