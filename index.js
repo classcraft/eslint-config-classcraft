@@ -18,6 +18,7 @@ module.exports = {
         semi: [
             "error",
             "always"
-        ]
+        ],
+        "react/prefer-stateless-function": 0
     }
 };
