@@ -1,24 +1,7 @@
 module.exports = {
-    extends: "eslint-config-airbnb",
+    extends: ["eslint-config-airbnb", "plugin:prettier/recommended"],
     rules: {
         "import/no-absolute-path": 0,
-        indent: [
-            "error",
-            "tab"
-        ],
-        "linebreak-style": [
-            "error",
-            "unix"
-        ],
-        "no-tabs": 0,
-        quotes: [
-            "error",
-            "double"
-        ],
-        semi: [
-            "error",
-            "always"
-        ],
         "react/prefer-stateless-function": 0
     }
 };
