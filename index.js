@@ -3,7 +3,6 @@ module.exports = {
         "eslint-config-airbnb",
         "plugin:prettier/recommended",
         "plugin:flowtype/recommended",
-        "prettier/flowtype",
         "prettier/react"
     ],
     parser: "babel-eslint",
