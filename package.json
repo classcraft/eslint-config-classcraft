@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "peerDependencies": {
-    "eslint": "^4.19.1 || ^5.0.1",
-    "prettier": "^1"
+    "eslint": ">=8.0.0",
+    "prettier": ">=1.0.0"
   },
   "repository": {
     "type": "git",
@@ -28,13 +28,13 @@
   },
   "homepage": "https://github.com/classcraft/eslint-config-classcraft#readme",
   "dependencies": {
-    "babel-eslint": "~8.2.0",
-    "eslint-config-airbnb": "~17.0.0",
-    "eslint-config-prettier": "~2.9.0",
-    "eslint-plugin-flowtype": "~2.50.1",
-    "eslint-plugin-import": "~2.13.0",
-    "eslint-plugin-jsx-a11y": "~6.1.1",
-    "eslint-plugin-prettier": "~2.6.2",
-    "eslint-plugin-react": "~7.10.0"
+    "@babel/eslint-parser": "^7.18.2",
+    "eslint-config-airbnb": "~19.0.4",
+    "eslint-config-prettier": "~8.5.0",
+    "eslint-plugin-flowtype": "~8.0.3",
+    "eslint-plugin-import": "~2.26.0",
+    "eslint-plugin-jsx-a11y": "~6.5.1",
+    "eslint-plugin-prettier": "~4.0.0",
+    "eslint-plugin-react": "~7.30.0"
   }
 }
